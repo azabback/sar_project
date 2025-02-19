@@ -2,7 +2,7 @@
 
 ## Introduction
 This is a cloned version of a repository written by Riley Froomin created to support CSC 581 students in developing
-intelligent agents in the AI4S&R project.
+intelligent agents for the AI4S&R project.
 
 Amara Zabback wrote an agent to act as the "first aid specialist" who takes in descriptions by the lost individual or
 aid teams of medical complaints and provides two pieces of information:
